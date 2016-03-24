@@ -14,4 +14,3 @@ class TestApp(App):
         return Button(text='hello world')
 
 TestApp().run()
-
